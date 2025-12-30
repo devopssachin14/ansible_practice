@@ -1,0 +1,3 @@
+---
+# vars file for Devop
+index_dest: "/var/www/html" 
