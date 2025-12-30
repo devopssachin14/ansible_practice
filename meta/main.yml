@@ -1,6 +1,6 @@
 ---
 galaxy_info:
- role_name: httpd
+ role_name: apache
  author: sachin
  description: install&configure
  license: MIT
